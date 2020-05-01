@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercice optionnel</string>
+    <string name="ingrenum">Entrez un número entier</string>
+    <string name="vis">Visualiser</string>
+    <string name="guardar">Sauvegarder</string>
+    <string name="resultado">Résultat</string>
+    <string name="ordena">Commande</string>
+    <string name="lleno">" Il n'y a pas d'espace"</string>
+    <string name="intronum">" Vous devez entrer un nombre minimum"</string>
+    <string name="agregarval">" Valeur ajoutée"</string>
+    <string name="menos">" Tu me manques le nombre moins"</string>
+</resources>

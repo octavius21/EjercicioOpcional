@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="vis">Visualize</string>
+    <string name="app_name">" Optional exercise"</string>
+    <string name="ingrenum">Enter a number integer</string>
+    <string name="guardar">Save</string>
+    <string name="resultado">Results</string>
+    <string name="ordena">Ordering</string>
+    <string name="lleno">" There is no space"</string>
+    <string name="intronum">" You must enter a minimum number"</string>
+    <string name="agregarval">" Value added"</string>
+    <string name="menos">" I miss you the minus number"</string>
+</resources>

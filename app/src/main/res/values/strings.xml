@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EjercicioOpcional</string>
+    <string name="ingrenum">Ingresa un numero entero</string>
+    <string name="vis">Vizualizar</string>
+    <string name="guardar">Guardar</string>
+    <string name="resultado">Resultado</string>
+    <string name="ordena">Ordenamiento</string>
+    <string name="agregarval">Se agrego el valor</string>
+    <string name="lleno">Ya no hay espacio</string>
+    <string name="intronum">Debes de introducir minimo un numero</string>
+    <string name="menos">Te falto el numero del menos</string>
+</resources>
